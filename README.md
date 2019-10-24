@@ -1,2 +1,2 @@
 # Axsis
-Repositorio para proectos
+Repositorio para proyectos
